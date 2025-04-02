@@ -2,7 +2,7 @@ Trello:
 https://trello.com/b/yvJWwqhG/tdkurt-appprogramacionmovil
 
 link del mockup:
-https://www.figma.com/design/4ztlDKPXuXcRPMx9yu42Uh/Untitled?node-id=1-2&m=dev&t=a6CJXDJZM7l3dNoV-1 
+https://www.figma.com/design/sJpQt14dRYw2wOjabCFs6F/Untitled?node-id=3-2&t=R97zShOSz1bwyvgo-0
 
 link de caso de uso:
 https://app.diagrams.net/#G1ZnXN-c9j4aiUXRjYjEutelMPSaVQekSv#%7B%22pageId%22%3A%224a8pILkn-tRWN4aPQ1V4%22%7D
